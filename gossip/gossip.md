@@ -1,2 +1,3 @@
 - 1. A function contains multiple logical branches;
 - 2. Expose the lock of struct object;
+- 3. Use of pointers;
