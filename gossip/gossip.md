@@ -1,1 +1,2 @@
-- 1. A function contains multiple logical branches
+- 1. A function contains multiple logical branches;
+- 2. Expose the lock of struct object;
